@@ -1,5 +1,29 @@
 const talks = [
   {
+    conference: 'Agent Conf',
+    year: 2020,
+    title: 'To D3 or not',
+    description: 'You do not need D3 always!',
+    topics: ['D3', 'Visualisations', 'JavaScript', 'Open Source'],
+    place: 'Dornbirn, Austria',
+    slides:
+      'https://docs.google.com/presentation/d/1GTh4q30nkt95X1ysky4LkLYk9Jg3e3si_wXMn5GkWKA/edit?usp=sharing',
+    video: '',
+    feedback: 'https://twitter.com/AgentConf/status/1220375925344407555'
+  },
+  {
+    conference: 'Women Who Code',
+    year: 2020,
+    title: 'The art of asking questions',
+    description: 'Do not be shy to ask questions',
+    topics: ['General', 'Leadership', 'Interview'],
+    place: 'Berlin, Germany',
+    slides:
+      'https://docs.google.com/presentation/d/1nCIOzE6lGe3kHQFjhF3l8ddA51JopjTAX9Q_LvXOt0k/edit?usp=sharing',
+    video: '',
+    feedback: 'https://twitter.com/WWCodeBerlin/status/1222961817254797313'
+  },
+  {
     conference: 'React Rally',
     year: 2019,
     title: 'Debugging the Debugger',
